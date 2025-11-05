@@ -536,13 +536,3 @@ I have used the ES6 template strings for this purpose
   handleMouseOut(d, i, n);
 })
 ```
-
-## Contributor ✨
-
-- Twitter : [@malsaslam97](https://twitter.com/malsaslam97)
-- Github: [@AssSam7](https://github.com/AssSam7)
-- LinkedIn: [Aslam Mohammed](https://www.linkedin.com/in/malsaslam97/)
-
-## Show your support
-
-Give a ⭐️ if you think this application has some credibility
